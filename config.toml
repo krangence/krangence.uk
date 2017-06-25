@@ -4,7 +4,7 @@ baseurl = "http://example.org/"
 theme = "aerial"
 
 [params]
-  name = "Adam Jensen"
+  name = "Matt White"
   about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
   copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
