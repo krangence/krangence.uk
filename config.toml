@@ -1,7 +1,6 @@
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Matt White"
 baseurl = "http://example.org/"
-theme = "aerial"
 
 [params]
   name = "Matt White"
@@ -35,29 +34,3 @@ theme = "aerial"
   medium = "Email"
   icon = "envelope-o"
   link = "#"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
-  
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
-
