@@ -1,6 +1,9 @@
 notifications:
   webhooks: https://9n82rofre0.execute-api.us-east-1.amazonaws.com/dev/hello-world
 language: node_js
+cache:
+  directories:
+  - node_modules
 node_js:
   - "7"
 before_script:
