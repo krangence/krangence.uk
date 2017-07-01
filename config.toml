@@ -3,7 +3,7 @@ title = "Matt White"
 baseurl = "http://example.org/"
 
 [params]
-  name = "Matt White"
+  name = "Matt Whitey"
   about = "IT Support Analyst"
   copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
