@@ -1,5 +1,5 @@
 notifications:
-  webhooks: https://9n82rofre0.execute-api.us-east-1.amazonaws.com/dev/hello-world
+  webhooks: https://9n82rofre0.execute-api.us-east-1.amazonaws.com/dev/index
 language: node_js
 cache:
   directories:
