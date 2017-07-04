@@ -3,8 +3,8 @@ title = "Matt White"
 baseurl = "http://example.org/"
 
 [params]
-  name = "Matt Whitey"
-  about = "IT Support Guru"
+  name = "Matt White"
+  about = "IT Support Analyst"
   copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll emp
   bg_scroll = ""
@@ -18,17 +18,12 @@ baseurl = "http://example.org/"
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  link = "https://www.facebook.com/krangence"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/krangence"
 
 [[params.social]]
   medium = "Email"
